@@ -11,7 +11,7 @@ It incorporates following use-cases:
 
 Tech-Spec:
 
-Implementation (Java-Spring-Hibernate)
+Implementation (Spring-Hibernate-Java)
 
 * Designed models from scratch. and providing their DAO interfaces and JPA implementations.
 * Tested DAO methods using TestNG.
